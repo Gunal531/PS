@@ -118,5 +118,3 @@ def index():
 if __name__ == '__main__':
     model = train_model(custom_df=create_dataset_from_csv())
     app.run(debug=True)
-    
-##
