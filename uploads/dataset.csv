@@ -1,0 +1,201 @@
+﻿question,distribution
+"A factory produces light bulbs, and 90% of them are not defective. If a customer buys 10 bulbs, what is the probability that exactly 8 of them work?",Binomial
+"A website gets an average of 5 visitors per minute. What is the probability that in a given minute, exactly 7 visitors arrive?",Poisson
+The heights of students in a school follow a normal distribution with a mean of 170 cm and a standard deviation of 10 cm. What is the probability that a randomly selected student is taller than 180 cm?,Normal
+"A factory produces light bulbs, and 90% of them are not defective. If a customer buys 10 bulbs, what is the probability that exactly 8 of them work?",Binomial
+"If a coin is flipped 5 times, what is the probability of getting exactly 3 heads?",Binomial
+A die is rolled 10 times. What is the probability of rolling a 6 exactly twice?,Binomial
+"A survey shows that 80% of students pass an exam. If 5 students are selected randomly, what is the probability that exactly 4 pass?",Binomial
+"A website gets an average of 5 visitors per minute. What is the probability that in a given minute, exactly 7 visitors arrive?",Poisson
+A call center receives an average of 12 calls per hour. What is the probability that they receive 15 calls in an hour?,Poisson
+An emergency room receives an average of 20 patients per day. What is the probability that exactly 25 patients arrive today?,Poisson
+A bank gets 10 customer visits per hour on average. What is the probability of getting exactly 12 customers in an hour?,Poisson
+The heights of students in a school follow a normal distribution with a mean of 170 cm and a standard deviation of 10 cm. What is the probability that a randomly selected student is taller than 180 cm?,Normal
+The weight of apples in a grocery store follows a normal distribution with a mean of 150 grams and a standard deviation of 20 grams. What is the probability of selecting an apple weighing more than 170 grams?,Normal
+The IQ scores of people follow a normal distribution with a mean of 100 and a standard deviation of 15. What is the probability that a randomly chosen person has an IQ above 120?,Normal
+"The annual salaries of employees in a company are normally distributed with a mean of $50,000 and a standard deviation of $5,000. What is the probability that a randomly selected employee earns more than $55,000?",Normal
+A random number is chosen between 10 and 50. What is the probability that the number is greater than 30?,Uniform
+A fair spinner is divided into 4 equal sections numbered 1 to 4. What is the probability of landing on a 3?,Uniform
+A random point is selected in a square of area 100. What is the probability that it falls in a smaller region of area 20?,Uniform
+A random variable X is uniformly distributed between 2 and 8. What is the probability of X being greater than 5?,Uniform
+A basketball player has a 60% chance of making a free throw. What is the probability that the first successful shot happens on the third attempt?,Geometric
+A person rolls a die until they get a 6. What is the probability that the first 6 appears on the 4th roll?,Geometric
+"In a lottery, the probability of winning is 0.2. What is the probability that the first win happens on the 5th ticket?",Geometric
+A factory worker tests switches and finds that 5% are defective. What is the probability that the first defective switch is found on the 7th test?,Geometric
+The time between arrivals of buses at a stop follows an exponential distribution with an average of 10 minutes. What is the probability that the next bus arrives in more than 15 minutes?,Exponential
+The time it takes for a radioactive particle to decay follows an exponential distribution with a mean time of 2 hours. What is the probability that a particle survives more than 3 hours?,Exponential
+The time between phone calls at a service center follows an exponential distribution with a mean of 4 minutes. What is the probability that the next call occurs after 6 minutes?,Exponential
+The lifespan of a battery follows an exponential distribution with a mean of 5 years. What is the probability that it lasts longer than 7 years?,Exponential
+"In a game, a player has a 0.7 probability of hitting the target. If they shoot 12 times, what is the probability they hit the target at least 9 times?",Binomial
+"A batch of 100 microchips has a 5% defect rate. If 20 chips are selected, what is the probability exactly 2 are defective?",Binomial
+"A multiple-choice test has 10 questions, each with 4 choices. What is the probability of guessing exactly 4 correct answers?",Binomial
+"A medicine cures 85% of patients. If 15 patients take the medicine, what is the probability that at least 13 are cured?",Binomial
+"A machine produces 90% accurate parts. What is the probability that in a batch of 25, exactly 20 are accurate?",Binomial
+A network experiences 3 server failures per month on average. What is the probability of 5 failures this month?,Poisson
+An online shop receives 30 orders per day. What’s the probability they get 35 orders on a particular day?,Poisson
+A parking lot sees an average of 8 cars per hour. What is the probability that 10 cars arrive in an hour?,Poisson
+A help desk gets 6 requests per hour. What is the probability of getting more than 8 in an hour?,Poisson
+A cafe serves 50 customers a day. What’s the probability of serving 60 customers today?,Poisson
+The heights of male athletes are normally distributed with a mean of 180 cm and SD of 7 cm. What is the probability that an athlete is shorter than 170 cm?,Normal
+The weights of bags of rice are normally distributed with a mean of 25 kg and SD of 1.5 kg. What is the probability that a randomly selected bag weighs between 24 and 26.5 kg?,Normal
+SAT scores are normally distributed with mean 1050 and SD 200. What is the probability a student scores more than 1300?,Normal
+Blood pressure levels have a mean of 120 mmHg and SD of 8 mmHg. What is the probability a person’s BP is between 115 and 135 mmHg?,Normal
+A manufacturing process produces screws with a mean length of 5 cm and SD of 0.1 cm. What is the probability that a screw is longer than 5.2 cm?,Normal
+A number is chosen randomly between 100 and 200. What is the probability that it lies between 130 and 150?,Uniform
+A value is selected randomly from a uniform distribution between 5 and 25. What’s the probability it’s less than 10?,Uniform
+A dart is thrown randomly at a square board of side 10 cm. What is the probability it lands in a central circle of radius 3 cm?,Uniform
+"A point is chosen randomly in a 2D space (x from 0 to 10, y from 0 to 5). What is the probability that x > 6 and y < 3?",Uniform
+A variable is uniformly distributed between 1 and 9. What is the probability the variable lies within 2 units of the mean?,Uniform
+A machine has a 25% success rate. What is the probability that it succeeds for the first time on the 6th attempt?,Geometric
+"In a video game, the chance of passing a level is 0.3. What is the probability of passing for the first time on the 4th attempt?",Geometric
+"A person randomly calls a friend, who picks up 10% of the time. What is the probability the friend answers on the 8th call?",Geometric
+A basketball player has a 45% chance of making a 3-pointer. What is the probability the first basket is made on the second attempt?,Geometric
+A card is drawn from a shuffled deck until an ace appears. What’s the probability the first ace is drawn on the 5th trial?,Geometric
+The time between earthquakes in a region follows an exponential distribution with a mean of 2 years. What is the probability the next quake occurs after 3 years?,Exponential
+The time for a customer to finish a transaction follows an exponential distribution with a mean of 6 minutes. What’s the probability it takes more than 10 minutes?,Exponential
+A machine breaks down with an average time of 40 hours. What’s the probability it operates more than 60 hours before breaking?,Exponential
+The lifetime of a printer cartridge follows an exponential distribution with mean 500 pages. What’s the probability it lasts beyond 700 pages?,Exponential
+A computer crashes on average every 30 days. What is the probability that it runs without crashing for more than 45 days?,Exponential
+"In a binomial experiment with 30 trials and p=0.3, what is the probability of more than 20 successes?",Binomial
+A light bulb has a 5% defect rate. What is the probability of getting at least one defect in a sample of 10?,Binomial
+A factory receives 40 orders per day. What is the probability they get fewer than 30 orders on a day?,Poisson
+A medicine has a success rate of 70%. What is the probability that 9 out of 10 patients are cured?,Binomial
+"A person waits for a train, and the wait time is exponentially distributed with a mean of 20 minutes. What is the probability the train arrives within 10 minutes?",Exponential
+"IQ scores follow N(100,15). What is the probability that a person’s IQ is between 85 and 115?",Normal
+A card is drawn repeatedly from a deck until a king appears. What is the probability that it takes more than 7 attempts?,Geometric
+A supermarket sees 18 customers per hour. What is the probability they see 20 or more customers in an hour?,Poisson
+A product's weight is normally distributed with mean 1.2 kg and SD 0.05 kg. What is the probability a product weighs less than 1.1 kg?,Normal
+A cable’s lifespan follows an exponential distribution with a mean of 4 years. What is the probability it lasts less than 2 years?,Exponential
+A fair coin is tossed until the first tail appears. What is the probability it happens on the 5th toss?,Geometric
+"A shipment contains 10% faulty products. In a sample of 12, what is the probability of more than 2 being faulty?",Binomial
+A random number is chosen between 20 and 100. What is the probability it is between 60 and 90?,Uniform
+A light bulb has an average life of 1000 hours. What is the probability it fails after 1200 hours?,Exponential
+Average number of calls per 30 mins is 4. What’s the probability of receiving 6 calls in 30 mins?,Poisson
+A person flips a coin 8 times. What is the probability of getting heads at least 6 times?,Binomial
+A video file size is normally distributed with mean 1.5 GB and SD 0.3 GB. What is the probability a file is larger than 2 GB?,Normal
+A signal is transmitted with a success probability of 0.9. What is the probability the first success is within the first 3 tries?,Geometric
+Ten coins are thrown simultaneously. Find the probability of getting at least seven heads.,Binomial
+"An urn contains 5 white and 3 black marbles. If two marbles are drawn at random without replacement and X denotes the number of white marbles, find the probability distribution.",Discrete Probability Distribution
+The mean of Binomial distribution is 20 and standard deviation is 4. Find the parameters of the distribution.,Binomial
+For binomial distribution of mean 4 and variance 2. Find the probability of getting at least 2 successes.,Binomial
+The number of monthly breakdowns of a computer is a random variable having a Poisson distribution with mean equal to 1.8. Find the probability that this computer will function for a month (1) without a breakdown (2) with only one breakdown (3) with at least one breakdown.,Poisson
+In an engineering examination... In a particular year 10% of the students failed... Assume normal distribution of marks.,Normal
+"The saving bank account of a customer showed an average balance of Rs.150 and SD of Rs.50. Assuming account balances are normally distributed, find percentages over Rs.200, between Rs.120 and Rs.170, and below Rs.75.",Normal
+"The daily consumption of milk in excess of 10000 gallons is approximately distributed exponentially with mean 1000 gallons. What is the probability that of two days selected at random, the stock is insufficient on both days?",Exponential
+"Train arrives at a station at 15-minute intervals. If a passenger arrives at a time uniformly distributed between 9.00 and 9.30, find the probability of waiting (1) less than 6 minutes, (2) more than 10 minutes.",Uniform
+"The mileage of a radial tire is exponentially distributed with mean 40,000 km. Find the probability that the tire lasts (a) at least 20,000 km (b) at most 30,000 km.",Exponential
+"A factory produces widgets with a 92% success rate. What is the probability that in a sample of 15, at least 14 are non-defective?",Binomial
+"In a class of 30 students, each has a 70% chance of completing a project on time. What is the probability that at least 25 complete it on time?",Binomial
+"In a genetics experiment, the chance of dominant trait expression is 75%. What is the probability of seeing exactly 5 expressions in 8 trials?",Binomial
+A bakery finds 3% of its cakes have cracks. What’s the probability of finding 2 defective cakes in a batch of 20?,Binomial
+A basketball player has a 65% free throw success rate. What is the probability they score more than 6 out of 10 attempts?,Binomial
+The average number of accidents on a highway per day is 4. What is the probability of at least 5 accidents today?,Poisson
+A hospital receives 10 emergency calls per hour. What is the probability of getting fewer than 8 calls in an hour?,Poisson
+A warehouse experiences 2 equipment failures per month. What’s the probability that there are exactly 3 failures next month?,Poisson
+A customer service center receives 6 emails per hour. What is the probability of receiving more than 9 emails in an hour?,Poisson
+A store receives 20 walk-ins per day on average. What’s the probability of exactly 18 on a particular day?,Poisson
+The lifespan of a human heart valve follows a normal distribution with a mean of 12 years and SD of 2 years. What is the probability of failure before 10 years?,Normal
+"A machine fills bottles with a normally distributed volume (mean = 500ml, SD = 10ml). What is the probability a bottle contains more than 515ml?",Normal
+"The SAT scores follow N(1000, 200²). What is the probability that a student scores below 900?",Normal
+"Blood sugar levels follow N(90, 10²). What is the probability a patient’s level is between 80 and 110?",Normal
+"The heights of plants in a greenhouse are N(150 cm, 12 cm²). What is the probability a plant is taller than 165 cm?",Normal
+A random number is chosen between 5 and 25. What’s the probability that it lies between 10 and 15?,Uniform
+A timer randomly selects a second within the first 60 seconds. What’s the probability it selects less than 20 seconds?,Uniform
+A point is selected in a rectangle of area 40. What’s the probability it falls in a subregion of area 10?,Uniform
+A variable is uniformly distributed from 0 to 100. What is the probability it lies within 10 units of the mean?,Uniform
+A number is selected randomly between 30 and 80. What is the probability that it’s greater than 65?,Uniform
+A delivery has a 10% failure rate. What is the probability that the first successful delivery happens on the 4th attempt?,Geometric
+A game is won with a probability of 0.5. What is the probability of winning for the first time on the 3rd trial?,Geometric
+A fair die is rolled until a six appears. What is the probability that it takes 5 rolls to get the first six?,Geometric
+A worker tests sensors; each has a 15% defect rate. What’s the probability that the first defective sensor is the 6th tested?,Geometric
+A coin lands on heads with 0.3 probability. What’s the chance the first head comes on the second toss?,Geometric
+A mobile app user logs in at intervals following an exponential distribution with a mean of 1 hour. What’s the probability next login is after 2 hours?,Exponential
+The time until a bulb fails is exponentially distributed with a mean of 200 hours. What is the probability it lasts more than 250 hours?,Exponential
+Time between arrivals at a ticket counter is exponential with mean 5 minutes. What’s the probability next arrival is within 2 minutes?,Exponential
+A printer’s life is exponentially distributed with mean 3 years. What’s the probability it fails before 2 years?,Exponential
+A taxi arrives at a station every 12 minutes on average. What is the probability a passenger waits more than 20 minutes?,Exponential
+"If p = 0.6 in a binomial trial of size 12, what’s the probability of getting more than 9 successes?",Binomial
+"In a sample of 10 from a factory where 1 in 5 items is defective, what is the probability that 4 items are defective?",Binomial
+A light source emits particles following a Poisson distribution with λ=2 per second. What’s the probability of emitting no particles in 2 seconds?,Poisson
+A normal distribution has a mean of 250 and SD of 15. What’s the probability of getting a value less than 230?,Normal
+"A value is selected from uniform(10, 30). What’s the probability it lies between 15 and 25?",Uniform
+A medicine succeeds 75% of the time. What’s the probability it fails for the first two trials and succeeds on the third?,Geometric
+Lifetime of LED light is exponential with mean 8000 hrs. What is the probability it lasts less than 7000 hrs?,Exponential
+A device fails on average every 50 hours. What is the probability it works more than 100 hours?,Exponential
+A uniform distribution between 0 and 60 minutes. What’s the probability a value is less than 10 or more than 50?,Uniform
+A random number is selected from 5 to 50. What is the probability it lies outside 20 to 40?,Uniform
+A fair coin is flipped 12 times. What is the probability of getting between 5 and 8 heads inclusive?,Binomial
+A Poisson process models email arrivals at 3/hour. What’s the probability of receiving at most 2 in 1 hour?,Poisson
+Normally distributed IQs with mean 105 and SD 12. What’s the probability a person has an IQ under 90?,Normal
+"Uniform distribution on [100, 300]. What’s the probability a randomly selected number lies in [150, 275]?",Uniform
+A component's failure rate is exponential with mean 250 hrs. What is the chance it lasts less than 150 hrs?,Exponential
+A lottery ticket wins 1 in 6 times. What’s the probability the first win is on the 5th ticket?,Geometric
+"Mean of binomial distribution is 5, variance is 2.5. What are n and p?",Binomial
+"In a class, 30% are left-handed. In a group of 8 students, what is the probability exactly 2 are left-handed?",Binomial
+A bus arrives every 20 mins. What is the probability a randomly arriving person waits less than 5 mins?,Uniform
+A normally distributed variable has mean 70 and SD 5. What is the probability a value is above 80?,Normal
+"A vaccine works 95% of the time. What is the probability that in a group of 20 people, exactly 18 respond positively?",Binomial
+A coin is biased with P(H) = 0.6. What is the probability of getting 7 heads in 10 tosses?,Binomial
+A student guesses answers on a 10-question MCQ test (each with 4 choices). What is the probability they guess exactly 3 correctly?,Binomial
+A telecom company observes that 90% of customers pay on time. What’s the probability that 8 out of 10 randomly selected pay on time?,Binomial
+"In a bag of 100 parts, 15 are defective. What is the probability that a sample of 12 has exactly 3 defects?",Binomial
+"A radioactive substance emits particles at an average of 5 per hour. What’s the probability that in an hour, 6 are emitted?",Poisson
+A website gets an average of 18 visitors per minute. What is the probability it receives more than 20 in one minute?,Poisson
+A system experiences a crash on average every 8 hours. What’s the probability that it doesn’t crash for 12 hours?,Poisson
+The number of incoming texts to a mobile phone follows Poisson with λ = 3 per hour. What is the probability of 0 texts in the next hour?,Poisson
+A library issues 10 books per hour on average. What’s the chance of issuing more than 15 in an hour?,Poisson
+The average weight of a fruit is 200g with SD 15g. What’s the probability a fruit weighs between 185g and 215g?,Normal
+The average height of students is 165cm with SD 9cm. What is the probability of selecting a student taller than 180cm?,Normal
+Marks in a test are normally distributed with mean 50 and SD 8. What’s the chance a student scores below 40?,Normal
+"The length of metal rods follows N(100 cm, 4²). What’s the probability a rod is between 97 and 103 cm?",Normal
+"The salaries in a company are N(30,000, 5,000²). What is the probability of selecting a person earning over 35,000?",Normal
+A number is selected randomly between 0 and 40. What’s the probability it lies below 10?,Uniform
+A timer randomly selects a time between 2 and 6 seconds. What’s the probability it selects more than 4 seconds?,Uniform
+A point is selected on a line segment from 0 to 50. What’s the probability that it lies between 10 and 30?,Uniform
+"A variable X is uniformly distributed on [0, 1]. What is P(0.2 ≤ X ≤ 0.6)?",Uniform
+A number is chosen between 20 and 60. What is the probability it lies outside 30 and 50?,Uniform
+A person plays a game with success probability 0.4. What is the chance the first win happens on the fifth try?,Geometric
+A shooter has a 10% hit rate. What’s the chance of first hit on the 6th attempt?,Geometric
+A die is rolled until a 3 appears. What’s the chance it happens on the 4th roll?,Geometric
+"In a test, the chance of solving a puzzle is 0.3. What’s the probability of first success on the second trial?",Geometric
+A device fails randomly with a 20% probability per use. What’s the probability it fails for the first time on the 7th use?,Geometric
+The lifespan of a bulb is exponentially distributed with mean 700 hours. What’s the probability it lasts more than 1000 hours?,Exponential
+A file upload time follows exponential distribution with mean 5 minutes. What’s the probability it takes less than 3 minutes?,Exponential
+A computer breaks down with mean time 300 hrs. What’s the probability it lasts more than 350 hours?,Exponential
+The time between bank transactions follows exponential distribution with mean 12 minutes. What’s the chance the next occurs in more than 15 minutes?,Exponential
+A factory machine operates for exponential time with mean 20 hrs. What’s the probability it fails within 10 hours?,Exponential
+"In a sample of 12 from a process where p=0.7, what’s the probability of 10 or more successes?",Binomial
+"A class has 60% boys. Selecting 5 students, what’s the chance 3 are boys?",Binomial
+"A Poisson process of λ = 4 per 30 mins, what’s the probability of no events in 15 minutes?",Poisson
+"A variable X is N(45, 6²). Find P(40 < X < 50).",Normal
+A number is chosen between 1 and 11. What is P(number ≥ 7)?,Uniform
+"In a factory, 30% of workers are skilled. What’s the chance of selecting 2 skilled workers in a group of 5?",Binomial
+A car passes on a road on average every 10 mins. What’s the chance no car passes in 30 mins?,Poisson
+A machine fills water with a normal distribution of mean 1 liter and SD 0.05. What’s the probability the amount is between 0.9 and 1.1 liters?,Normal
+A number is uniformly distributed between 200 and 300. Find P(number between 240 and 280).,Uniform
+A fair coin is tossed until first tail appears. What’s the chance it occurs on the 3rd toss?,Geometric
+A server handles requests every 4 mins on average (exponential). What’s P(next request > 6 mins)?,Exponential
+A Poisson process receives 2 calls per 10 mins. What’s P(3 calls in 15 mins)?,Poisson
+"Marks follow N(70, 10²). What’s P(score > 85)?",Normal
+A person logs in every 2 hrs on average (exponential). What’s the probability they don’t log in for 4 hrs?,Exponential
+"A batch has 25% defects. In a sample of 8, what’s the chance of 4 or more defects?",Binomial
+"A random number in [0,100], what’s the probability it lies within 30 of the mean?",Uniform
+A variable follows geometric with p = 0.3. What’s P(first success in ≤3 tries)?,Geometric
+A lab processes samples with mean 5 mins per sample (exponential). What’s P(sample > 8 mins)?,Exponential
+A biased die (P(6)=0.2). Rolled 10 times. What’s P(exactly 3 sixes)?,Binomial
+A machine defects at rate 1 per 5 days (Poisson). What’s P(≥2 in 5 days)?,Poisson
+"Heights are N(160, 8²). What’s P(height < 150)?",Normal
+"A value from U[50,90]. What’s P(value > 70)?",Uniform
+Toss until head appears (p=0.7). What’s P(success ≤3 tries)?,Geometric
+Device lasts mean 1000 hrs. What’s P(life < 800)?,Exponential
+Machine has 75% success rate. What’s P(≥7 successes in 10 trials)?,Binomial
+Calls arrive Poisson λ=3/hour. What’s P(exactly 4 in one hour)?,Poisson
+"Exam scores N(60,10²). What’s P(score > 75)?",Normal
+"U[100, 300]. P(value < 180)?",Uniform
+Coin tossed until tail. What’s P(first tail on 4th toss)?,Geometric
+Lifespan exponential with mean 400 hrs. What’s P(<200)?,Exponential
+"Group of 20, defect rate 10%. P(3 defects)?",Binomial
+"N(90,5²). What’s P(>100)?",Normal
+λ=2 per hour. P(1 or fewer)?,Poisson
+"U[10,60]. P(20<x<40)?",Uniform
+Geometric with p=0.5. P(first success ≤2)?,Geometric
